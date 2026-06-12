@@ -47,13 +47,13 @@
         <li>
           <strong>B.Tech in Computer Engineering &amp; AI</strong><br/>
           <em>Sri Vasavi Engineering College, Tadepalligudem</em><br/>
-          <span>2024 â€“ Present</span>
+          <span>2024 - Present</span>
         </li>
         <br/>
         <li>
           <strong>Diploma (DCME)</strong><br/>
           <em>Sir Crr Polytechnic College, Eluru</em><br/>
-          <span>2021 â€“ 2024</span>
+          <span>2021 - 2024</span>
         </li>
       </ul>
     </td>
@@ -62,12 +62,12 @@
       <ul>
         <li>
           <strong>Python Programming</strong><br/>
-          <em>VIT Institute</em> â€” 2022
+          <em>VIT Institute</em> - 2022
         </li>
         <br/>
         <li>
           <strong>Core Java</strong><br/>
-          <em>VIT Institute</em> â€” 2023
+          <em>VIT Institute</em> - 2023
         </li>
       </ul>
     </td>
@@ -205,9 +205,9 @@
     <td width="50%" style="border: none; vertical-align: top; padding-right: 15px;">
       <h3>🏆 Achievements</h3>
       <ul>
-        <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (â‚¹5,000 cash prize) for developing a legal awareness web platform.</li>
+        <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (cash prize of ₹ 5,000) for developing a legal awareness web platform.</li>
         <br/>
-        <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (â‚¹1,500 cash prize) for building an AI-powered educational platform.</li>
+        <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (cash prize of ₹ 1,500) for building an AI-powered educational platform.</li>
       </ul>
     </td>
     <td width="50%" style="border: none; vertical-align: top; padding-left: 15px;">
