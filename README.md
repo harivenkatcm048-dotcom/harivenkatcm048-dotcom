@@ -41,15 +41,78 @@
 
 ---
 
-<p align="center">
-  <img src="./education_certifications.svg" alt="Education and Certifications" width="100%">
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li>
+          <strong>B.Tech in Computer Engineering &amp; AI</strong><br/>
+          <em>Sri Vasavi Engineering College, Tadepalligudem</em><br/>
+          <span>2024 - Present</span>
+        </li>
+        <br/>
+        <li>
+          <strong>Diploma (DCME)</strong><br/>
+          <em>Sir Crr Polytechnic College, Eluru</em><br/>
+          <span>2021 - 2024</span>
+        </li>
+      </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
+    </td>
+    <td valign="top">
+      <h3>🏅 Certifications</h3>
+      <ul>
+        <li>
+          <strong>Python Programming</strong><br/>
+          <em>VIT Institute</em> - 2022
+        </li>
+        <br/>
+        <li>
+          <strong>Core Java</strong><br/>
+          <em>VIT Institute</em> - 2023
+        </li>
+      </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="./toolkit.svg" alt="Technology Toolkit" width="100%">
-</p>
+### 🛠️ My Technology Toolkit
+
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong>💻 Languages</strong><br/>
+      &bull; Python <br/>
+      &bull; C <br/>
+      &bull; Java <br/>
+      &bull; JavaScript
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
+    </td>
+    <td valign="top">
+      <strong>⚙️ Frameworks &amp; DBs</strong><br/>
+      &bull; Flask <br/>
+      &bull; React <br/>
+      &bull; MongoDB <br/>
+      &bull; MySQL
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
+    </td>
+    <td valign="top">
+      <strong>🤖 Tech &amp; Automation</strong><br/>
+      &bull; n8n (Learning) <br/>
+      &bull; HTML5 &amp; CSS3 <br/>
+      &bull; AI API Integration <br/>
+      &bull; Git &amp; Version Control
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -147,9 +210,30 @@
 
 ---
 
-<p align="center">
-  <img src="./strengths_achievements.svg" alt="Achievements and Strengths" width="100%">
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <h3>🏆 Achievements</h3>
+      <ul>
+        <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (cash prize of ₹ 5,000) for developing a legal awareness web platform.</li>
+        <br/>
+        <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (cash prize of ₹ 1,500) for building an AI-powered educational platform.</li>
+      </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
+    </td>
+    <td valign="top">
+      <h3>💪 Key Strengths</h3>
+      <ul>
+        <li><strong>Quick Learner:</strong> Adaptable and fast to integrate new technologies.</li>
+        <br/>
+        <li><strong>Organized:</strong> Excellent time management and organizational skills.</li>
+        <br/>
+        <li><strong>Self-Motivated:</strong> Passionate about continuous learning and development.</li>
+      </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 ---
 
