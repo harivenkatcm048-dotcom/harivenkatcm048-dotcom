@@ -18,26 +18,13 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h3>💼 Objective &amp; Profile</h3>
-      <p><strong>Kothapalli Hari Venkata Sai Mani Kumar</strong></p>
-      <blockquote>
-        Passionate AI and Full-Stack Developer with hands-on experience in building web applications, AI-powered platforms, and automation systems. Skilled in Python, React, Flask, and modern web technologies with a strong interest in artificial intelligence, automation, and scalable software development. Seeking opportunities to contribute technical expertise while continuously learning and growing in a dynamic environment.
-      </blockquote>
-      <p>📱 <strong>Contact:</strong> (+91) 9347892915 | Eluru, Andhra Pradesh, India</p>
-      <img src="./spacer.svg" width="410" height="1" alt="">
-    </td>
-    <td valign="top">
-      <h3>📊 GitHub Activity</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=harivenkatcm048-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8&icon_color=c084fc" width="100%" alt="GitHub Stats">
-      </p>
-      <img src="./spacer.svg" width="340" height="1" alt="">
-    </td>
-  </tr>
-</table>
+### 💼 Objective &amp; Profile
+
+<p><strong>Kothapalli Hari Venkata Sai Mani Kumar</strong></p>
+<blockquote>
+  Passionate AI and Full-Stack Developer with hands-on experience in building web applications, AI-powered platforms, and automation systems. Skilled in Python, React, Flask, and modern web technologies with a strong interest in artificial intelligence, automation, and scalable software development. Seeking opportunities to contribute technical expertise while continuously learning and growing in a dynamic environment.
+</blockquote>
+<p>📱 <strong>Contact:</strong> (+91) 9347892915 | Eluru, Andhra Pradesh, India</p>
 
 ---
 
@@ -210,47 +197,37 @@
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <h3>🏆 Achievements</h3>
-      <ul>
-        <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (cash prize of ₹ 5,000) for developing a legal awareness web platform.</li>
-        <br/>
-        <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (cash prize of ₹ 1,500) for building an AI-powered educational platform.</li>
-      </ul>
-      <img src="./spacer.svg" width="375" height="1" alt="">
-    </td>
-    <td valign="top">
-      <h3>💪 Key Strengths</h3>
-      <ul>
-        <li><strong>Quick Learner:</strong> Adaptable and fast to integrate new technologies.</li>
-        <br/>
-        <li><strong>Organized:</strong> Excellent time management and organizational skills.</li>
-        <br/>
-        <li><strong>Self-Motivated:</strong> Passionate about continuous learning and development.</li>
-      </ul>
-      <img src="./spacer.svg" width="375" height="1" alt="">
-    </td>
-  </tr>
-</table>
+### 🏆 Achievements
+
+<ul>
+  <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (cash prize of ₹ 5,000) for developing a legal awareness web platform.</li>
+  <br/>
+  <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (cash prize of ₹ 1,500) for building an AI-powered educational platform.</li>
+</ul>
 
 ---
 
-### 📈 Language &amp; Streak Metrics
+### 💪 Key Strengths
 
-<table width="100%">
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harivenkatcm048-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8" width="100%" alt="Top Languages">
-      <img src="./spacer.svg" width="375" height="1" alt="">
-    </td>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=harivenkatcm048-dotcom&theme=tokyonight&hide_border=true&background=0f172a&stroke=818cf8&ring=c084fc&fire=f472b6&currStreakLabel=94a3b8" width="100%" alt="GitHub Streak">
-      <img src="./spacer.svg" width="375" height="1" alt="">
-    </td>
-  </tr>
-</table>
+<ul>
+  <li><strong>Quick Learner:</strong> Adaptable and fast to integrate new technologies.</li>
+  <br/>
+  <li><strong>Organized:</strong> Excellent time management and organizational skills.</li>
+  <br/>
+  <li><strong>Self-Motivated:</strong> Passionate about continuous learning and development.</li>
+</ul>
+
+---
+
+### 📊 GitHub Dashboard &amp; Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harivenkatcm048-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8&icon_color=c084fc" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harivenkatcm048-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8" width="48%" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harivenkatcm048-dotcom&theme=tokyonight&hide_border=true&background=0f172a&stroke=818cf8&ring=c084fc&fire=f472b6&currStreakLabel=94a3b8" width="85%" alt="GitHub Streak">
+</p>
 
 <br/>
 
