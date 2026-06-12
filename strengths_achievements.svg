@@ -1,0 +1,78 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap');
+    .header {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      fill: #818cf8;
+      letter-spacing: 0.5px;
+    }
+    .title {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #f8fafc;
+    }
+    .desc {
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      fill: #94a3b8;
+    }
+    .card-bg {
+      fill: #0b0f19;
+      stroke: #1e293b;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    <filter id="card-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="780" height="180" rx="8" fill="#6366f1" opacity="0.05" filter="url(#card-glow)" />
+  <rect x="10" y="10" width="780" height="180" class="card-bg" fill="url(#card-grad)" />
+
+  <line x1="400" y1="20" x2="400" y2="180" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- ACHIEVEMENTS -->
+  <g transform="translate(35, 30)">
+    <!-- Icon (Trophy) -->
+    <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6M18 9h1.5a2.5 2.5 0 0 0 0-5H18M4 22h16M10 14.66V17c0 .55-.45 1-1 1H4v2h16v-2h-5c-.55 0-1-.45-1-1v-2.34" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 2a5 5 0 0 0-5 5v3c0 2.2 1.8 4 4 4h2c2.2 0 4-1.8 4-4V7a5 5 0 0 0-5-5z" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="48" class="header">ACHIEVEMENTS</text>
+
+  <text x="35" y="80" class="title">3rd Prize - Nyaya Vyavastha Hackathon</text>
+  <text x="35" y="98" class="desc">Secured 3rd place in a 24-Hour Hackathon with a cash prize</text>
+  <text x="35" y="114" class="desc">of ₹ 5,000 for a legal awareness web platform.</text>
+
+  <text x="35" y="140" class="title">2nd Prize - Hackelerate Lernyx Hackathon</text>
+  <text x="35" y="158" class="desc">Won 2nd place in Hackelerate Hackathon with a cash prize</text>
+  <text x="35" y="174" class="desc">of ₹ 1,500 for building an AI educational platform.</text>
+
+  <!-- KEY STRENGTHS -->
+  <g transform="translate(435, 30)">
+    <!-- Icon (Shield) -->
+    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="470" y="48" class="header">KEY STRENGTHS</text>
+
+  <text x="435" y="80" class="title">&bull; Quick Learner</text>
+  <text x="450" y="98" class="desc">Highly adaptable and fast to integrate new technologies.</text>
+
+  <text x="435" y="120" class="title">&bull; Time Management</text>
+  <text x="450" y="138" class="desc">Excellent planning, execution, and organizational skills.</text>
+
+  <text x="435" y="160" class="title">&bull; Self-Motivated</text>
+  <text x="450" y="178" class="desc">Passionate about continuous learning and growth.</text>
+</svg>

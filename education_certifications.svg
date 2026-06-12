@@ -1,0 +1,86 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap');
+    .header {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      fill: #818cf8;
+      letter-spacing: 0.5px;
+    }
+    .title {
+      font-family: 'Inter', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #f8fafc;
+    }
+    .subtitle {
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      fill: #94a3b8;
+    }
+    .date {
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      font-size: 11px;
+      fill: #818cf8;
+    }
+    .card-bg {
+      fill: #0b0f19;
+      stroke: #1e293b;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    <filter id="card-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+    </filter>
+  </defs>
+
+  <!-- Glow and Card -->
+  <rect x="10" y="10" width="780" height="180" rx="8" fill="#6366f1" opacity="0.05" filter="url(#card-glow)" />
+  <rect x="10" y="10" width="780" height="180" class="card-bg" fill="url(#card-grad)" />
+
+  <!-- Divider Line -->
+  <line x1="400" y1="20" x2="400" y2="180" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- EDUCATION -->
+  <g transform="translate(35, 30)">
+    <!-- Icon (Graduation Cap) -->
+    <path d="M12 2L2 7l10 5 10-5-10-5z" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M2 17l10 5 10-5" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M2 12l10 5 10-5" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="70" y="48" class="header">EDUCATION</text>
+
+  <text x="35" y="80" class="title">B.Tech in Computer Engineering &amp; AI</text>
+  <text x="35" y="98" class="subtitle">Sri Vasavi Engineering College, Tadepalligudem</text>
+  <text x="35" y="114" class="date">2024 - Present</text>
+
+  <text x="35" y="140" class="title">Diploma (DCME)</text>
+  <text x="35" y="158" class="subtitle">Sir Crr Polytechnic College, Eluru</text>
+  <text x="35" y="174" class="date">2021 - 2024</text>
+
+  <!-- CERTIFICATIONS -->
+  <g transform="translate(435, 30)">
+    <!-- Icon (Medal) -->
+    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="470" y="48" class="header">CERTIFICATIONS</text>
+
+  <text x="435" y="80" class="title">Python Programming</text>
+  <text x="435" y="98" class="subtitle">VIT Institute</text>
+  <text x="435" y="114" class="date">Issued 2022</text>
+
+  <text x="435" y="140" class="title">Core Java</text>
+  <text x="435" y="158" class="subtitle">VIT Institute</text>
+  <text x="435" y="174" class="date">Issued 2023</text>
+</svg>

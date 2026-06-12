@@ -1,0 +1,69 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="100%" height="160">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap');
+    .header {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      fill: #818cf8;
+      letter-spacing: 0.5px;
+    }
+    .skill-item {
+      font-family: 'Inter', sans-serif;
+      font-weight: 500;
+      font-size: 13px;
+      fill: #f8fafc;
+    }
+    .card-bg {
+      fill: #0b0f19;
+      stroke: #1e293b;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b0f19" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+    <filter id="card-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+    </filter>
+  </defs>
+
+  <rect x="10" y="10" width="780" height="140" rx="8" fill="#6366f1" opacity="0.05" filter="url(#card-glow)" />
+  <rect x="10" y="10" width="780" height="140" class="card-bg" fill="url(#card-grad)" />
+
+  <!-- Dividers -->
+  <line x1="270" y1="20" x2="270" y2="140" stroke="#1e293b" stroke-width="1.5" />
+  <line x1="530" y1="20" x2="530" y2="140" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Languages -->
+  <g transform="translate(30, 20)">
+    <text x="0" y="15" class="header">LANGUAGES</text>
+    <text x="0" y="45" class="skill-item">&bull; Python</text>
+    <text x="0" y="68" class="skill-item">&bull; C</text>
+    <text x="0" y="91" class="skill-item">&bull; Java</text>
+    <text x="0" y="114" class="skill-item">&bull; JavaScript</text>
+  </g>
+
+  <!-- Frameworks & DBs -->
+  <g transform="translate(290, 20)">
+    <text x="0" y="15" class="header">FRAMEWORKS &amp; DBS</text>
+    <text x="0" y="45" class="skill-item">&bull; Flask</text>
+    <text x="0" y="68" class="skill-item">&bull; React</text>
+    <text x="0" y="91" class="skill-item">&bull; MongoDB</text>
+    <text x="0" y="114" class="skill-item">&bull; MySQL</text>
+  </g>
+
+  <!-- Tech & Automation -->
+  <g transform="translate(550, 20)">
+    <text x="0" y="15" class="header">TECH &amp; AUTOMATION</text>
+    <text x="0" y="45" class="skill-item">&bull; n8n (Learning)</text>
+    <text x="0" y="68" class="skill-item">&bull; HTML5 &amp; CSS3</text>
+    <text x="0" y="91" class="skill-item">&bull; AI API Integration</text>
+    <text x="0" y="114" class="skill-item">&bull; Git &amp; Version Control</text>
+  </g>
+</svg>
