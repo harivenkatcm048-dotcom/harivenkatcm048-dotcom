@@ -18,30 +18,32 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr style="border: none;">
-    <td width="55%" style="border: none; vertical-align: top; padding-right: 20px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
       <h3>💼 Objective &amp; Profile</h3>
       <p><strong>Kothapalli Hari Venkata Sai Mani Kumar</strong></p>
       <blockquote>
         Passionate AI and Full-Stack Developer with hands-on experience in building web applications, AI-powered platforms, and automation systems. Skilled in Python, React, Flask, and modern web technologies with a strong interest in artificial intelligence, automation, and scalable software development. Seeking opportunities to contribute technical expertise while continuously learning and growing in a dynamic environment.
       </blockquote>
       <p>📱 <strong>Contact:</strong> (+91) 9347892915 | Eluru, Andhra Pradesh, India</p>
+      <img src="./spacer.svg" width="410" height="1" alt="">
     </td>
-    <td width="45%" style="border: none; vertical-align: top; padding-left: 10px;">
+    <td valign="top">
       <h3>📊 GitHub Activity</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=harivenkatcm048-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8&icon_color=c084fc" width="100%" alt="GitHub Stats">
       </p>
+      <img src="./spacer.svg" width="340" height="1" alt="">
     </td>
   </tr>
 </table>
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top; padding-right: 15px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
       <h3>🎓 Education</h3>
       <ul>
         <li>
@@ -56,8 +58,9 @@
           <span>2021 - 2024</span>
         </li>
       </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
-    <td width="50%" style="border: none; vertical-align: top; padding-left: 15px;">
+    <td valign="top">
       <h3>🏅 Certifications</h3>
       <ul>
         <li>
@@ -70,6 +73,7 @@
           <em>VIT Institute</em> - 2023
         </li>
       </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
   </tr>
 </table>
@@ -78,28 +82,34 @@
 
 ### 🛠️ My Technology Toolkit
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="33%" style="border: none; vertical-align: top; padding-bottom: 15px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
       <strong>💻 Languages</strong><br/>
       &bull; Python <br/>
       &bull; C <br/>
       &bull; Java <br/>
       &bull; JavaScript
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
     </td>
-    <td width="33%" style="border: none; vertical-align: top; padding-bottom: 15px;">
+    <td valign="top">
       <strong>⚙️ Frameworks &amp; DBs</strong><br/>
       &bull; Flask <br/>
       &bull; React <br/>
       &bull; MongoDB <br/>
       &bull; MySQL
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
     </td>
-    <td width="33%" style="border: none; vertical-align: top; padding-bottom: 15px;">
+    <td valign="top">
       <strong>🤖 Tech &amp; Automation</strong><br/>
       &bull; n8n (Learning) <br/>
       &bull; HTML5 &amp; CSS3 <br/>
       &bull; AI API Integration <br/>
       &bull; Git &amp; Version Control
+      <br/><br/>
+      <img src="./spacer.svg" width="245" height="1" alt="">
     </td>
   </tr>
 </table>
@@ -108,10 +118,10 @@
 
 ### 🌟 Portfolio &amp; Projects
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%">
   <!-- Project 1 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>⚖️ <a href="https://nyayavyavasth.vercel.app/">Nyaya Vyavastha</a> 🏆 <em>3rd Prize - Hackathon Winner</em></h4>
       <p>A legal awareness and justice-focused web platform designed to simplify legal information by providing accessible resources, structured guidance on procedures, and user-friendly navigation of rights, laws, and judicial processes.</p>
       <p>
@@ -123,8 +133,8 @@
     </td>
   </tr>
   <!-- Project 2 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>📚 <a href="https://lernyx.vercel.app/">Learn Ex (Lernyx)</a> 🏆 <em>2nd Prize - Hackelerate Winner</em></h4>
       <p>An AI-powered educational platform designed to provide intelligent learning assistance, simplified explanations of complex topics, and curated study resources to enhance student learning experiences.</p>
       <p>
@@ -136,8 +146,8 @@
     </td>
   </tr>
   <!-- Project 3 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>🏋️ <a href="https://project-10-5i32.onrender.com/">Fit Track</a></h4>
       <p>A comprehensive fitness tracking web application that enables users to log workouts, monitor fitness progress, and analyze performance through interactive charts, analytics, and personalized tracking features.</p>
       <p>
@@ -149,8 +159,8 @@
     </td>
   </tr>
   <!-- Project 4 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>🛒 <a href="http://br4ev.vercel.app/">Online Men's E-Commerce</a></h4>
       <p>A modern e-commerce platform for men's fashion that offers product catalog browsing, shopping cart functionality, secure checkout, order management, and a seamless online shopping experience.</p>
       <p>
@@ -161,8 +171,8 @@
     </td>
   </tr>
   <!-- Project 5 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>🏫 College Management System <em>(Not Deployed)</em></h4>
       <p>A full-scale ERP solution for educational institutions featuring student information management, faculty and administration portals, attendance monitoring, timetable automation, and academic record management.</p>
       <p>
@@ -173,8 +183,8 @@
     </td>
   </tr>
   <!-- Project 6 -->
-  <tr style="border: none;">
-    <td style="border: none; padding-bottom: 20px;">
+  <tr>
+    <td style="padding-bottom: 20px;">
       <h4>🎓 <a href="http://16.16.183.242/">Best Outgoing Student Portal</a></h4>
       <p>A student achievement and recognition platform designed to manage and showcase outstanding student performance, academic excellence, extracurricular accomplishments, and institutional rankings.</p>
       <p>
@@ -185,8 +195,8 @@
     </td>
   </tr>
   <!-- Project 7 -->
-  <tr style="border: none;">
-    <td style="border: none;">
+  <tr>
+    <td>
       <h4>🤖 Automated News Delivery System</h4>
       <p>An intelligent n8n-based automation workflow that automatically triggers every day at 9:00 AM, fetches the latest news from the Sakshi News website, processes and summarizes the content, and delivers news updates via an automated email pipeline.</p>
       <p>
@@ -200,17 +210,18 @@
 
 ---
 
-<table width="100%" style="border-collapse: collapse; border: none; border-spacing: 0;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top; padding-right: 15px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
       <h3>🏆 Achievements</h3>
       <ul>
         <li><strong>3rd Prize - Nyaya Vyavastha:</strong> Secured 3rd place in a 24-Hour Hackathon (cash prize of ₹ 5,000) for developing a legal awareness web platform.</li>
         <br/>
         <li><strong>2nd Prize - Learn Ex:</strong> Won 2nd place in the Hackelerate Hackathon (cash prize of ₹ 1,500) for building an AI-powered educational platform.</li>
       </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
-    <td width="50%" style="border: none; vertical-align: top; padding-left: 15px;">
+    <td valign="top">
       <h3>💪 Key Strengths</h3>
       <ul>
         <li><strong>Quick Learner:</strong> Adaptable and fast to integrate new technologies.</li>
@@ -219,6 +230,7 @@
         <br/>
         <li><strong>Self-Motivated:</strong> Passionate about continuous learning and development.</li>
       </ul>
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
   </tr>
 </table>
@@ -227,13 +239,15 @@
 
 ### 📈 Language &amp; Streak Metrics
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" style="border: none; padding-right: 10px;">
+<table width="100%">
+  <tr>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harivenkatcm048-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=94a3b8" width="100%" alt="Top Languages">
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
-    <td width="50%" style="border: none; padding-left: 10px;">
+    <td valign="top">
       <img src="https://streak-stats.demolab.com?user=harivenkatcm048-dotcom&theme=tokyonight&hide_border=true&background=0f172a&stroke=818cf8&ring=c084fc&fire=f472b6&currStreakLabel=94a3b8" width="100%" alt="GitHub Streak">
+      <img src="./spacer.svg" width="375" height="1" alt="">
     </td>
   </tr>
 </table>
